@@ -7,8 +7,8 @@
 const char* ssid = "AirFiber-Rov1ne";
 const char* password = "mahBeegahY9quo9O";
 
-String botToken = "8438830540:AAHGiCz5kOhAF-9EZCwEpMRy1KcP9nwDFjo";
-String chatID []= {"2060211608", "1619368608"};
+String botToken = "8433647240:AAHG3dhekOhAF-9EZCwHs83hsKsq9nwDFjo";
+String chatID []= {"2073294608", "1613498408"};
 
 // ---------------- Pins ----------------
 #define DOUT 4
